@@ -32,14 +32,31 @@
 
 // const ta daha önce tanımlanan değişken başka bir değişkene atanabiliyor. O değişken değiştiğinde atanan değişkende değişiyor.
 
-const student = {
-    firstName: 'Can',
-    number: 'F1234',
-  };
+// const student = {
+//     firstName: 'Can',
+//     number: 'F1234',
+//   };
   
-const otherStudent = student;
-console.log(otherStudent);
+// const otherStudent = student;
+// console.log(otherStudent);
   
-otherStudent.number1 = 'F9876';
+// otherStudent.number1 = 'F9876';
   
-console.log(student);
+// console.log(student);
+
+// // constla daha önce tanımladığımız değişkeni değiştiremeyiz.
+// otherStudent = {
+//     firstName: 'Sinan',
+//     number: 'F3456',
+//   };
+  
+// console.log(otherStudent);
+
+
+
+
+
+
+
+
+
