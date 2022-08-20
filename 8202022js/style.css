@@ -9,6 +9,12 @@ body {
     display:flex;
     justify-content:center;
     align-items:center;
-    
+
+
+}
+.clock {
+    width:40rem;
+    height:40rem;
+    background: url("https://cssanimation.rocks/images/posts/clocks/ios_clock.svg");
 
 }
